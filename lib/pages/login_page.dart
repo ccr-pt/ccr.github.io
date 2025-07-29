@@ -49,7 +49,9 @@ class _LoginPageState extends State<LoginPage> {
                 child: TextField(
                   obscureText: true,
                   decoration: InputDecoration(
-                    labelText: 'Password',
+                     contentPadding: EdgeInsets.symmetric(horizontal: 10, vertical: 8),
+
+                    labelText: 'Password1',
                     border: OutlineInputBorder(),
                   ),
                 ),

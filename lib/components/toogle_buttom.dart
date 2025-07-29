@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import 'package:flutter/material.dart';
 import 'package:toggle_switch/toggle_switch.dart';
 
